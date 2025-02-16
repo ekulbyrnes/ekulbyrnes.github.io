@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ekulbyrnes.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 're-terminal'
+
+[module.hugoVersion]
+extended = true
+min = '0.128.0'
